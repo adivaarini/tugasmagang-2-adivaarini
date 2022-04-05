@@ -1,0 +1,51 @@
+form {
+    border: 2px solid #0f75d4;
+    margin: 50px auto;
+    width: 550px;
+    padding: 10px;
+}
+
+button {
+    background-color: #71c3e9;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+input[type=text],
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(204, 174, 174);
+    box-sizing: border-box;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.logo {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+.container {
+    padding: 16px;
+    background-color: aliceblue;
+}
+
+span.bdaf,
+span.blog {
+    float: center;
+    padding-top: 10px;
+}
+
+span.frgt-psw {
+    float: left;
+    padding-top: 10px;
+}
